@@ -1,0 +1,3 @@
+rootProject.name = 'LineProgressBar'
+
+include ':app'
