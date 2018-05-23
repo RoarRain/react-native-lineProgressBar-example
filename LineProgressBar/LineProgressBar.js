@@ -1,6 +1,4 @@
-/**
- * Created by denzyl on 2018/1/12.
- */
+
 import React, {Component} from 'react';
 import {
     StyleSheet,
